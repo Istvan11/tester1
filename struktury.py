@@ -31,4 +31,4 @@ print(lista)
 # print(zmienna)
 # print(ostatni)
 
-# nowy komentarz do
+# nowy komentarz do gita
