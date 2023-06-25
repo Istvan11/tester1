@@ -30,3 +30,5 @@ lista.append(dozwolone_waluty)
 print(lista)
 # print(zmienna)
 # print(ostatni)
+
+# nowy komentarz do
